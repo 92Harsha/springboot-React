@@ -1,4 +1,4 @@
-# Spring Boot and React.js using running together
+# Spring Boot and React.js Template
 
 ## Database Setup using PostgreSql
 
